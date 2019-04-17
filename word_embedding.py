@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# 作者         ：HuangJianyi
 '''
 
 These codes work for embedding hashtag.

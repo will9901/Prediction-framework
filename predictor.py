@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# 作者         ：HuangJianyi
 '''
 
 The output of lstm should be fed into a predictor. We choose NN as our predictor.

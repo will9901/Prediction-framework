@@ -1,7 +1,6 @@
+# -*- coding: utf-8 -*-
+# 作者         ：HuangJianyi
 '''
-Created on Sep 16, 2017
-
-@author: Ying Hu
 
 These codes work for embedding popularity information.
 Given a hashtag, the output embedding contains the cumulative popularity

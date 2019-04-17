@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+# 作者         ：HuangJianyi
 '''
 
 All are linked together here.

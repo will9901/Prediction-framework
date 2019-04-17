@@ -1,7 +1,6 @@
+# -*- coding: utf-8 -*-
+# 作者         ：HuangJianyi
 '''
-Created on Sep 14, 2017
-
-@author: Ying Hu
 
 key reference: https://danijar.com/introduction-to-recurrent-networks-in-tensorflow/
  			   https://danijar.com/variable-sequence-lengths-in-tensorflow/

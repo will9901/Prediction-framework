@@ -1,9 +1,6 @@
-'''
-Created on Oct 02, 2017
+# -*- coding: utf-8 -*-
+# 作者         ：HuangJianyi
 
-@author: Ying Hu
-
-'''	
 
 import tensorflow as tf
 
